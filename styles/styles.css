@@ -16,10 +16,12 @@ h2{
 a{
 	color:green;
 	text-decoration: none;
+	transition: 0.3s;
 }
 
 a:hover{
 	color: purple;
 	font-size: 18px;
+	transform: scale(1.2);
 
 }
