@@ -6,6 +6,9 @@ body{
 
 h1{
 	color:red;
+	text-transform: uppercase;
+	letter-spacing: 5px;
+	font-weight: 300;
 }
 
 
@@ -23,5 +26,13 @@ a:hover{
 	color: purple;
 	font-size: 18px;
 	transform: scale(1.2);
+	letter-spacing: 3px;
 
+}
+
+#container{
+	margin: auto;
+	width: 960;
+	height:  auto;
+	background: white;
 }
