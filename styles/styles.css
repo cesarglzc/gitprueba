@@ -12,9 +12,9 @@ body{
 }*/
 
 
-h2{
+/*h2{
 	color: blue;
-}
+}*/
 
 /*a{
 	color:green;
@@ -31,10 +31,14 @@ a:hover{
 }*/
 
 #container{
-	margin: auto;
+	/*margin: auto;
 	width: 960;
-	height:  auto;
+	height:  auto;*/
 	background: white;
+}
+
+footer{
+	padding: 10px 0px;
 }
 
 
